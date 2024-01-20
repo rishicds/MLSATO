@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
+    "url": "git+https://github.com/rishicds/MLSATO.git"
   },
-  "author": "Microsoft",
+  "author": "Rishi Paul",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
