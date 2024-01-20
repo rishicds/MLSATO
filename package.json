@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://rishicds.github.io/MLSATO",
+  "homepage": "https://github.com/rishicds/MLSATO#-customize-your-site-in-3-steps",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rishicds/MLSATO.git"
+    "url": "git+https://github.com/microsoft/codespaces-teaching-template-js.git"
   },
-  "author": "Rishi Paul",
+  "author": "Microsoft",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/microsoft/codespaces-teaching-template-js/issues"
